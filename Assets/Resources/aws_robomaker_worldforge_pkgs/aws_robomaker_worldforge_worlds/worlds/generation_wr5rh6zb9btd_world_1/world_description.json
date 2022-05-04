@@ -1,0 +1,34 @@
+{
+    "ModelDefinitions": [
+        {
+            "ModelName": "door-Living_room-Bedroom",
+            "ModelType": "Door",
+            "Actions": [
+                {
+                    "SetOpenPosition": {
+                        "Definitions": [
+                            {
+                                "ComponentPath": "door-Living_room-Bedroom/DoorHingedSingleSwingRight_O8ab66c006110_lod0/hinge_joint"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "ModelName": "door-Living_room-Bathroom",
+            "ModelType": "Door",
+            "Actions": [
+                {
+                    "SetOpenPosition": {
+                        "Definitions": [
+                            {
+                                "ComponentPath": "door-Living_room-Bathroom/DoorHingedSingleSwingRight_O6cbf8e5de37_lod0/hinge_joint"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

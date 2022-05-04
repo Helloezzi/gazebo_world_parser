@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+	<world name="generation_wr5rh6zb9btd_world_1">
+		<include>
+			<uri>model://sun</uri>
+		</include>
+		<!--Bedroom-->
+		<model name="Beds_O1ebe36c65561_lod0_0">
+			<include>
+				<uri>model://Beds_O1ebe36c65561_lod0</uri>
+				<pose>5.700004768371582 6.600100255012513 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="FloorLamps_Oa651b7cbe4d7_lod0_1">
+			<include>
+				<uri>model://FloorLamps_Oa651b7cbe4d7_lod0</uri>
+				<pose>4.800000000000001 7.360998687148094 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="FloorLamps_Oa651b7cbe4d7_lod0_2">
+			<include>
+				<uri>model://FloorLamps_Oa651b7cbe4d7_lod0</uri>
+				<pose>6.6000000000000005 7.360998687148094 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="FloorLamps_Oa651b7cbe4d7_lod0_3">
+			<include>
+				<uri>model://FloorLamps_Oa651b7cbe4d7_lod0</uri>
+				<pose>3.0 7.410998687148094 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="StandingShelfUnits_Oa35498354022_lod0_4">
+			<include>
+				<uri>model://StandingShelfUnits_Oa35498354022_lod0</uri>
+				<pose>6.1000000000000005 2.3000000000000003 0.0 0.0 0.0 3.14</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Dressers_O871c82bd32ee_lod0_5">
+			<include>
+				<uri>model://Dressers_O871c82bd32ee_lod0</uri>
+				<pose>4.050013381242752 2.349999910593033 0.0 0.0 0.0 3.14</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="HomeOfficeDesks_O19496d17b1b5_lod0_6">
+			<include>
+				<uri>model://HomeOfficeDesks_O19496d17b1b5_lod0</uri>
+				<pose>2.700530391931534 4.695861530303955 0.0 0.0 0.0 1.57</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="HomeOfficeDeskChairs_Ocb2e8b1d1141_lod0_7">
+			<include>
+				<uri>model://HomeOfficeDeskChairs_Ocb2e8b1d1141_lod0</uri>
+				<pose>3.644123148918152 4.6979110658168795 0.0 0.0 0.0 4.710000000000001</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Bookcases_Of801682c0062_lod0_8">
+			<include>
+				<uri>model://Bookcases_Of801682c0062_lod0</uri>
+				<pose>6.59999475479126 4.050170230865478 0.0 0.0 0.0 4.71</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="FloorLamps_Occ4b77538a7e_lod0_9">
+			<include>
+				<uri>model://FloorLamps_Occ4b77538a7e_lod0</uri>
+				<pose>5.199977827072144 2.318125875294209 0.0 0.0 0.0 3.14</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<!--Living room-->
+		<model name="Sofas_O6bd3c99ebbf0_lod0_10">
+			<include>
+				<uri>model://Sofas_O6bd3c99ebbf0_lod0</uri>
+				<pose>0.3044336318969727 -2.741649642586708 0.0 0.0 0.0 3.14</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Ottomans_O7c9dadd15f42_lod0_11">
+			<include>
+				<uri>model://Ottomans_O7c9dadd15f42_lod0</uri>
+				<pose>0.2986909627914429 -1.693054732680321 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Ottomans_O7c9dadd15f42_lod0_12">
+			<include>
+				<uri>model://Ottomans_O7c9dadd15f42_lod0</uri>
+				<pose>0.09869096279144288 1.0569452673196793 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="FloorLamps_O84057e8e96e3_lod0_13">
+			<include>
+				<uri>model://FloorLamps_O84057e8e96e3_lod0</uri>
+				<pose>-1.599943181872368 3.0318019911646843 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Cabinets_O360d998c89e3_lod0_14">
+			<include>
+				<uri>model://Cabinets_O360d998c89e3_lod0</uri>
+				<pose>0.2500295042991638 3.064662548899651 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="StorageBenches_O467899d066b8_lod0_15">
+			<include>
+				<uri>model://StorageBenches_O467899d066b8_lod0</uri>
+				<pose>-2.0000540167093277 -1.650010371208191 0.0 0.0 0.0 1.57</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="SofaTables_O1c292176b101_lod0_16">
+			<include>
+				<uri>model://SofaTables_O1c292176b101_lod0</uri>
+				<pose>-0.7000000000000001 2.9500000447034838 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="AudioVideoMediaCabinets_O2aa1b676c894_lod0_17">
+			<include>
+				<uri>model://AudioVideoMediaCabinets_O2aa1b676c894_lod0</uri>
+				<pose>-2.066552455723286 0.0501865029335022 0.0 0.0 0.0 1.57</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="HomeStorageBasketsBinsAndContainers_O45832f40a099_lod0_18">
+			<include>
+				<uri>model://HomeStorageBasketsBinsAndContainers_O45832f40a099_lod0</uri>
+				<pose>-1.7999870955944062 -2.6503921389579777 0.0 0.0 0.0 1.57</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<!--Bathroom-->
+		<model name="Toilet_37fa78cd7dc4_lod0_19">
+			<include>
+				<uri>model://Toilet_37fa78cd7dc4_lod0</uri>
+				<pose>2.0 3.6208598509430887 0.0 0.0 0.0 1.57</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="PedestalSink_303fe81afd0_lod0_20">
+			<include>
+				<uri>model://PedestalSink_303fe81afd0_lod0</uri>
+				<pose>0.9991974979639053 6.817621152102948 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="ClothesWasher_a41462611906_lod0_21">
+			<include>
+				<uri>model://ClothesWasher_a41462611906_lod0</uri>
+				<pose>1.7498380541801453 6.745753344893456 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<!--Kitchen-->
+		<model name="DishWasher_f2d1aeaead9b_lod0_22">
+			<include>
+				<uri>model://DishWasher_f2d1aeaead9b_lod0</uri>
+				<pose>4.3 -0.6370980054140092 0.0 0.0 0.0 3.14</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="CounterWithSink_721b5b3c5cdc_lod0_23">
+			<include>
+				<uri>model://CounterWithSink_721b5b3c5cdc_lod0</uri>
+				<pose>6.393078711628914 -0.5978165477514268 0.0 0.0 0.0 3.14</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="ServingCarts_Off3d92b2f4b7_lod0_24">
+			<include>
+				<uri>model://ServingCarts_Off3d92b2f4b7_lod0</uri>
+				<pose>5.549997973442078 -0.7500312104821205 0.0 0.0 0.0 3.14</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Sideboards_Ofc0467edd91_lod0_25">
+			<include>
+				<uri>model://Sideboards_Ofc0467edd91_lod0</uri>
+				<pose>5.449949812889099 1.801673512160778 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Oven_a94deec47786_lod0_26">
+			<include>
+				<uri>model://Oven_a94deec47786_lod0</uri>
+				<pose>3.900007033348084 1.5073143109679223 0.0 0.0 0.0 4.71</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="Fridge_eeb632244952_lod0_27">
+			<include>
+				<uri>model://Fridge_eeb632244952_lod0</uri>
+				<pose>6.449999076128006 1.688091152906418 0.0 0.0 0.0 0.0</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<!--Structure models-->
+		<model name="wall_0">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_0</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_1">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_1</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_2">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_2</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_3">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_3</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_4">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_4</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_5">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_5</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_6">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_6</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_7">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_7</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_8">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_8</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_9">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_9</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_10">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_10</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_11">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_11</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_12">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_12</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_13">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_13</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_14">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_14</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_15">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_15</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_16">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_16</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="wall_17">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/wall_17</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="doorway_wall_18">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/doorway_wall_18</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="doorway_wall_19">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/doorway_wall_19</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="floor_Bedroom">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/floor_Bedroom</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="floor_Living_room">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/floor_Living room</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="floor_Bathroom">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/floor_Bathroom</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="floor_Kitchen">
+			<include>
+				<uri>model://generation_wr5rh6zb9btd_world_1/floor_Kitchen</uri>
+				<static>true</static>
+			</include>
+		</model>
+		<!--Door models-->
+		<model name="door-Living_room-Bedroom">
+			<include>
+				<uri>model://DoorHingedSingleSwingRight_O8ab66c006110_lod0</uri>
+				<pose>2.42 2.2675 0.0 0.0 0.0 6.281592653589794</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<model name="door-Living_room-Bathroom">
+			<include>
+				<uri>model://DoorHingedSingleSwingRight_O6cbf8e5de37_lod0</uri>
+				<pose>1.5825 3.42 0.0 0.0 0.0 1.5684073464102068</pose>
+				<static>true</static>
+			</include>
+		</model>
+		<state world_name="generation_wr5rh6zb9btd_world_1">
+			<model name="door-Living_room-Bedroom">
+				<link name="DoorHingedSingleSwingRight_O8ab66c006110_lod0::door_link">
+					<pose>2.42 2.2675 0.0 0 0 4.710796326794897</pose>
+				</link>
+			</model>
+			<model name="door-Living_room-Bathroom">
+				<link name="DoorHingedSingleSwingRight_O6cbf8e5de37_lod0::door_link">
+					<pose>1.5825 3.42 0.0 0 0 -0.0023889803846897095</pose>
+				</link>
+			</model>
+		</state>
+	</world>
+</sdf>
